@@ -1,4 +1,4 @@
 
-var Shyanne = function(){
+function Shyanne(){
 return "Shyanne";
 };
