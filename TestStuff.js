@@ -1,4 +1,1 @@
-
-function Shyanne(){
-return "Shyanne";
-};
+var Shyanne = {"name":"Shyanne",};
